@@ -6,7 +6,7 @@ hree approaches for pose repesentation have been implemented namely- Histogram o
 1) C++11
 
 	
-###Compiling the code
+### Compiling the code
 
 This c++ code can be compiled through Linux terminal.
 Open a new command window and `cd` to directory to Skeleton_code run the command 
